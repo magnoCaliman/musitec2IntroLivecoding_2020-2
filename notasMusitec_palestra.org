@@ -15,17 +15,3 @@
 - Protoplug - https://www.osar.fr/protoplug/
 - Sounds of Code - https://www.youtube.com/watch?v=uA4SDytz8Aw
 
-* Divulgação
-BIO
-----
-MAGNO CALIMAN - Artista sonoro, educador e pesquisador, suas práticas artístico-acadêmicas se constroem a partir da adoção de linguagens de programação enquanto objetos de especulação poiética, juntamente da construção, modificação e manipulação de circuitos eletrônicos DIY. Graduado em Composição Musical (UFRJ), possui mestrado em Educação (UNIRIO), onde investigou e desenvolveu metodologias e estratégias pedagógicas para o ensino e aprendizagem de programação no contexto das artes. 
-Atualmente trabalha como pesquisador junto ao grupo "Music, Thought and Technology" no Orpheus Intituut (Gent, Bélgica), é doutorando pela Katholieke Universiteit Leuven / LUCA School of Arts (Leuven, Bélgica), e leciona cadeiras nos campos do som, programação criativa e eletrônica no bacharelado em Arte Multimédia do Instituto Universitário da Maia - ISMAI (Porto, Portugal).
-
-RESUMO
-----
-Introdução ao Live Coding 
-Nessa palestra serão apresentados os fundamentos do Live Coding, prática das artes digitais na qual a manipulação de algoritmos e lógicas computacionais se dá em tempo real durante o momento de performance. Veremos exemplos do repertório; como o Live Coding se extende pelas áreas da música experimental, eletrônica de pista, artes visuais e computação física; discutiremos algumas das ferramentas mais utilizadas pela comunidade (em especial SuperCollider e Sonic Pi); assim como uma exposição geral sobre certos aspectos do processo criativo mediado por tecnologias computacionais. 
-
-FOTO
-----
-https://www.dropbox.com/s/rifwkwsik0pet2i/4W5A1396.JPG?dl=0

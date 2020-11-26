@@ -2,17 +2,17 @@
 
 * 1. O quê?
 ** 1.1 Gente digitando código e fazendo som
-*** 1.1.1 Pista
+*** Pista
 - Ryan Kirkbride - FoxDot -> https://www.youtube.com/watch?v=CXrkq7u69vU
-*** 1.1.2 Ruído
+*** Ruído
 - Shelly Knotts - CYOF -> https://www.youtube.com/watch?v=5GXzDnjgyso
-*** 1.1.3 Tonal
+*** Tonal
 - Andrew Sorensen - Five over Four -> https://www.youtube.com/watch?v=FYWtlV4JV6o
 - Daft Punk - Aerodynamic with Sonic Pi -> https://www.youtube.com/watch?v=cydH_JAgSfg
-*** 1.1.4 Musica mista / Live electronics
+*** Musica mista / Live electronics
 - Alex McLean + Yee-King - Canute -> https://www.youtube.com/watch?v=uAq4BAbvRS4
 - Alexandra Cárdenas - Feedforward -> https://www.youtube.com/watch?v=DdNC4TooElg
-*** 1.1.5 E tantos outros gêneros...
+*** E tantos outros gêneros...
 - É uma prática (comunitária), não uma estética.
 
 #+BEGIN_QUOTE
@@ -28,7 +28,7 @@ https://toplap.org/wiki/ManifestoDraft
 
 - "What is [live coding] NOT?" - Shelly Knotts ->  https://youtu.be/0kzQphRqRsw?t=695
 
-*** 1.1.6 Algorave
+*** Algorave
 - Alex McLean - Algorave: algorithmic dance culture - https://www.youtube.com/watch?v=nAGjTYa95HM
 - Benoît and the Mandelbrots - https://www.youtube.com/watch?v=JY8eNSu6HrU&t=945s
 - Renick Bell - https://youtu.be/8LR-AvsRQEs?t=285

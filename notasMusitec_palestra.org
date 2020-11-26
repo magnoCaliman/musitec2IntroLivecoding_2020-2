@@ -41,9 +41,9 @@ https://toplap.org/wiki/ManifestoDraft
 ** Corpo
 - Kate Sicchio
   - Agency in Live Coded Choreography -> https://youtu.be/lvbEHoMlzSo?t=2970
-  - Analívia Cordeiro - M3X3 -> https://www.youtube.com/watch?v=hZnn55oqPZ4
+  - Analivia Cordeiro - M3X3 -> https://www.youtube.com/watch?v=hZnn55oqPZ4
   - Hacking Choreography -> https://www.sicchio.com/hacking.html
-- Sean Cotterill & Charlie Dearnley - tome -> https://vimeo.com/158749554
+- Sean Cotterill && Charlie Dearnley - tome -> https://vimeo.com/158749554
 - Joana Chicau - Eulerrom Equinox -> https://www.youtube.com/watch?v=FnlWGmN_m_I
 ** Interfaces experimentais
 - Diego Dorado - Livecoding con emojis -> https://youtu.be/zRGVBILAbTQ?t=2079
@@ -61,7 +61,10 @@ https://toplap.org/wiki/ManifestoDraft
   - Cripto Guitar - https://youtu.be/lvbEHoMlzSo?t=4366
 * Vendendo meu peixe
 ** squareFuck
+- Overkill Fest 2018 -> https://youtu.be/WJqsweC8xzo
 ** screenBashing
+- Encun 2015 -> https://vimeo.com/148626379
+- ICLC 2016 -> https://vimeo.com/212694246
 * Por quê? (ou, "se der tempo a gente fala...")
 * Referências
 - Toplap
@@ -69,6 +72,4 @@ https://toplap.org/wiki/ManifestoDraft
   - Wiki - https://github.com/toplap/awesome-livecoding/
   - Manifesto - https://toplap.org/wiki/ManifestoDraft
 - ICLC - International Conference on Live Coding - https://iclc.toplap.org/
-- Shelly Knotts - https://www.youtube.com/watch?v=0kzQphRqRsw&feature=youtu.be
-- Protoplug - https://www.osar.fr/protoplug/
-- Sounds of Code - https://www.youtube.com/watch?v=uA4SDytz8Aw
+- AlgoMech - Festival of Algorithmic + Mechanical Movement - https://algomech.com/

@@ -1,17 +1,74 @@
 #+title: INTRODUÇÃO AO LIVE CODING
 
-* O que é?
-** Tecnicamente
-** Conceitualmente
-- Manifesto - https://toplap.org/wiki/ManifestoDraft
-* Repertório
-* +Ferramentas+ Plataformas
+* O quê?
+** Gente digitando código e fazendo som
+*** Pista
+- Ryan Kirkbride - FoxDot -> https://www.youtube.com/watch?v=CXrkq7u69vU
+*** Ruído
+- Shelly Knotts - CYOF -> https://www.youtube.com/watch?v=5GXzDnjgyso
+*** Tonal
+- Andrew Sorensen - Five over Four -> https://www.youtube.com/watch?v=FYWtlV4JV6o
+- Daft Punk - Aerodynamic with Sonic Pi -> https://www.youtube.com/watch?v=cydH_JAgSfg
+*** Musica mista / Live electronics
+- Alex McLean + Yee-King - Canute -> https://www.youtube.com/watch?v=uAq4BAbvRS4
+- Alexandra Cárdenas - Feedforward -> https://www.youtube.com/watch?v=DdNC4TooElg
+*** E tantos outros gêneros...
+- É uma prática (comunitária), não uma estética.
+
 #+BEGIN_QUOTE
-"Live coding is not about tools. Algorithms are thoughts. Chainsaws are tools. That's why algorithms are sometimes harder to notice than chainsaws."
+We demand:
+
+- Give us acess to the performer's mind, to the whole human instrument.
+- Obscurantism is dangerous. *Show us your screens*.
+- (...)
+- Live coding is not about tools. Algorithms are thoughts. Chainsaws are tools. That's why algorithms are sometimes harder to notice than chainsaws."
+
+https://toplap.org/wiki/ManifestoDraft
 #+END_QUOTE
 
+- "What is [live coding] NOT?" - Shelly Knotts ->  https://youtu.be/0kzQphRqRsw?t=695
+
+*** Algorave
+- Alex McLean - Algorave: algorithmic dance culture - https://www.youtube.com/watch?v=nAGjTYa95HM
+- Benoît and the Mandelbrots - https://www.youtube.com/watch?v=JY8eNSu6HrU&t=945s
+- Renick Bell - https://youtu.be/8LR-AvsRQEs?t=285
+- Alexandra Cárdenas && Olivia Jack - https://www.youtube.com/watch?v=jyEIDNtt9Hs
+** Visualistas
+- Olivia Jack
+  - Hydra -> https://hydra.ojack.xyz/
+  - pixelcycles -> https://www.youtube.com/watch?v=XUz7ptbO7as
+- Giovanni Muzio (Kesson) - 10 Minute Livecoding Challenge -> https://www.youtube.com/watch?v=598ncbifhm8 
+** Corpo
+- Kate Sicchio
+  - Agency in Live Coded Choreography -> https://youtu.be/lvbEHoMlzSo?t=2970
+  - Analívia Cordeiro - M3X3 -> https://www.youtube.com/watch?v=hZnn55oqPZ4
+  - Hacking Choreography -> https://www.sicchio.com/hacking.html
+- Sean Cotterill & Charlie Dearnley - tome -> https://vimeo.com/158749554
+- Joana Chicau - Eulerrom Equinox -> https://www.youtube.com/watch?v=FnlWGmN_m_I
+** Interfaces experimentais
+- Diego Dorado - Livecoding con emojis -> https://youtu.be/zRGVBILAbTQ?t=2079
+- André Damião - super_fic
+  - https://www.youtube.com/watch?v=2u_UtaXmmmE
+  - https://www.youtube.com/watch?v=zxDYxzZ_iIw
+- Anne Veinberg && Felipe Noriega - CodeKlavier
+  - https://www.youtube.com/watch?v=HrUNrb3ihl0
+  - https://github.com/narcode/codeklavier
+- Marije Baalman - Etudes pour le Livecoding à une Main -> https://marijebaalman.eu/projects/etudes-pour-le-livecoding-a-une-main.html
+- Evan Raskob - LivePrinter -> https://www.youtube.com/watch?v=Iz-8AHIGvpw
+- Toni Buckby && Sean Cotterill - sampler/sampler_2.0 -> https://www.youtube.com/watch?v=dY6oSwoRRho
+- Simon Blackmore
+  - Clapping a Sine Wave - https://www.youtube.com/watch?v=okjTERP15ew&feature=emb_title
+  - Cripto Guitar - https://youtu.be/lvbEHoMlzSo?t=4366
+* Vendendo meu peixe
+** squareFuck
+** screenBashing
+* Por quê? (ou, "se der tempo a gente fala...")
 * Referências
+- Toplap
+  - Homepage - https://toplap.org/
+  - Wiki - https://github.com/toplap/awesome-livecoding/
+  - Manifesto - https://toplap.org/wiki/ManifestoDraft
+- ICLC - International Conference on Live Coding - https://iclc.toplap.org/
 - Shelly Knotts - https://www.youtube.com/watch?v=0kzQphRqRsw&feature=youtu.be
 - Protoplug - https://www.osar.fr/protoplug/
 - Sounds of Code - https://www.youtube.com/watch?v=uA4SDytz8Aw
-

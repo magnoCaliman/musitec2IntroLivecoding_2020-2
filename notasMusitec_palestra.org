@@ -62,7 +62,7 @@ https://toplap.org/wiki/ManifestoDraft
 * 2. Vendendo meu peixe
 ** 2.1 squareFuck
 - Overkill Fest 2018 -> https://youtu.be/WJqsweC8xzo
-[[./img/squareFuck_overkill.jpg]]
+[[./img/squareFuck_overkill_resize.jpg]]
 ** 2.2 screenBashing
 - Encun 2015 -> https://vimeo.com/148626379
 - ICLC 2016 -> https://vimeo.com/212694246

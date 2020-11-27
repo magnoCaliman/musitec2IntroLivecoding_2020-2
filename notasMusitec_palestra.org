@@ -66,7 +66,7 @@ https://toplap.org/wiki/ManifestoDraft
 ** 2.2 screenBashing
 - Encun 2015 -> https://vimeo.com/148626379
 - ICLC 2016 -> https://vimeo.com/212694246
-[[./screenBashing_print.png]]
+[[./img/screenBashing_print.png]]
 * 3. Por quê? (ou, "se der tempo a gente fala...")
 [[./img/phd_slide.jpg]]
 * 4. Referências

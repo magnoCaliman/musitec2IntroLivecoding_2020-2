@@ -62,13 +62,35 @@ https://toplap.org/wiki/ManifestoDraft
 * 2. Vendendo meu peixe
 ** 2.1 squareFuck
 - Overkill Fest 2018 -> https://youtu.be/WJqsweC8xzo
-[[./img/squareFuck_overkill_resize.jpg]]
+[[./img/squareFuck_edit.png]]
 ** 2.2 screenBashing
 - Encun 2015 -> https://vimeo.com/148626379
 - ICLC 2016 -> https://vimeo.com/212694246
 [[./img/screenBashing_print.png]]
 * 3. Por quê? (ou, "se der tempo a gente fala...")
 [[./img/phd_slide.jpg]]
+** 3.1 Sonic Pi
+- https://sonic-pi.net/
+
+#+BEGIN_SRC ruby
+play 60
+sleep 1
+
+play 62
+sleep 1
+
+play 63
+sleep 1
+#+END_SRC
+
+#+BEGIN_SRC ruby
+live_loop :protoWaveShaper do
+  f = 72
+  play ring(f, f+2, f+3, f+7, f+3, f+2).tick, amp: 0.3
+  sleep 0.007
+end
+#+END_SRC
+
 * 4. Referências
 - Toplap
   - Homepage - https://toplap.org/
